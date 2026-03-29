@@ -20,3 +20,20 @@ Analysis of a housing dataset (996 properties) to identify factors influencing h
 - R script (analysis + model)
 - Report (full explanation)
 - Presentation slides
+
+## How to run
+1. Open the R script in RStudio
+2. Ensure required packages are installed:
+   - readxl
+   - ggplot2
+   - dplyr
+   - car
+3. Run the script step by step
+
+## Skills demonstrated
+- Data cleaning
+- Data visualisation
+- Correlation analysis
+- Multiple linear regression
+- Model diagnostics
+- Predictive modelling
